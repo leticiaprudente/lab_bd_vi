@@ -5,8 +5,8 @@
 
 ## [Descrição da Prática 01](https://github.com/leticiaprudente/lab_bd_vi/blob/main/pratica01_work_description_2021_01%20(1).pdf)
 
-### Tema Escolhido: Cáculo do Inverso 
+### Tema Escolhido: Cálculo do Inverso 
 
 ```Exemplo: ao receber x, retornar 1/x```
 
-## [Vídeo de aprensentação - Youtube](https://youtu.be/I1YPvZny760)
+## [Vídeo de apresentação - Youtube](https://youtu.be/I1YPvZny760)
