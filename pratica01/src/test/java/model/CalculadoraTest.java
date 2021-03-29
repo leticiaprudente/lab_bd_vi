@@ -2,7 +2,7 @@ package model;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-//import static org.junit.jupiter.api.Assertions.fail;
+import static org.junit.jupiter.api.Assertions.fail;
 
 import org.junit.jupiter.api.Test;
 
@@ -15,7 +15,6 @@ public class CalculadoraTest{
 		assertEquals(0.5, resultado);
 	}
 	
-	/*
 	@Test
 	public void inversoTestNegativo() throws Exception {
 		Calculadora calc = new Calculadora();
@@ -34,8 +33,6 @@ public class CalculadoraTest{
 			assertEquals( "Nao e possível realizar divisao por zero!", error.getMessage());
 		}
 
-	}
-	*/
-	
+	}	
 
 }
