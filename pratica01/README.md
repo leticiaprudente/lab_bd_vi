@@ -8,3 +8,5 @@
 ### Tema Escolhido: Cáculo do Inverso 
 
 ```Exemplo: ao receber x, retornar 1/x```
+
+## [Vídeo de aprensentação - Youtube](https://youtu.be/I1YPvZny760)
