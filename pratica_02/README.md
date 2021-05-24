@@ -16,7 +16,7 @@ _________________________________
         Caso você entregue essa tarefa sem falhas graves e corrigindo os problemas apontados na Prática 1, sua nota na prática 1 poderá sofrer upgrade de até 50 pts, numa escala de 0 a 100.
 
 
-#### Tema Escolhido: Cáculo do Inverso
+#### Tema Escolhido: Cálculo do Inverso
 
 ```Exemplo: ao receber x, retornar 1/x```
 

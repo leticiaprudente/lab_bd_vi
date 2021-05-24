@@ -18,12 +18,12 @@ public class Calculadora{
 			throw new Exception("O valor inserido esta fora do limite esperado");	
 		}
 		*/
-		/*
+		
 		BigDecimal y = new BigDecimal(x);
 		BigDecimal um = new BigDecimal(1);
 		BigDecimal retorno = um.divide(y);
-		*/
+		
 
-		return new BigDecimal(0); //retorno; 
+		return retorno; //new BigDecimal(0);
 	}	
 }
