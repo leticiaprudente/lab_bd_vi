@@ -33,6 +33,5 @@ public class CalculadoraTest{
 			assertEquals( "Nao e possível realizar divisao por zero!", error.getMessage());
 		}
 
-	}	
-
+	}
 }

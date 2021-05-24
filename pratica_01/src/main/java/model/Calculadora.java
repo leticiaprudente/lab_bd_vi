@@ -5,6 +5,6 @@ public class Calculadora{
 		if(x == 0){
 			throw new Exception("Nao e possível realizar divisao por zero!");	
 		}
-		return ((float) 1 )/((float) x);
+		return ((float) 1 )/((float) x); 
 	}	
 }
