@@ -34,3 +34,5 @@ Análise de Valores Limites
 Valores utilizados para teste de valor limite fictício:
     ```{0, 1 , 10.000, 10.001}```
 
+
+## [Vídeo de apresentação - Youtube](https://youtu.be/LSxZOgQxqf4)
