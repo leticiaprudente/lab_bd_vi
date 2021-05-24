@@ -18,6 +18,6 @@ public class Calculadora{
 			throw new Exception("O valor inserido esta fora do limite esperado");	
 		}*/
 
-		return 0; //((float) 1 ) / ((float) x) ; 
+		return ((float) 1 ) / ((float) x) ; 
 	}	
 }
