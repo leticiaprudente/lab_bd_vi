@@ -12,7 +12,7 @@ public class CalculadoraTest{
 		BigDecimal resultado = calc.inverso(2);
 		assertEquals(0.5, resultado);
 	}
-/*
+
 	@Test
 	public void inversoTestValidoSuperior() throws Exception {
 		Calculadora calc = new Calculadora();
@@ -53,5 +53,4 @@ public class CalculadoraTest{
 
 	}
 
-*/
 }
